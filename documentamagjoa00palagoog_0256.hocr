@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./documentamagjoa00palagoog_0256.png"; bbox 0 0 2992 5258; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 542 1547 887 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 542 1547 887 1636">
+     <span class='ocr_line' id='line_1_1' title="bbox 542 1547 887 1636; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 542 1547 669 1635; x_wconf 84' lang='lat' dir='ltr'><strong>PARS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 695 1548 887 1636; x_wconf 71' lang='lat' dir='ltr'><strong>TERTIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 147 1940 1310 2050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 147 1940 1310 2050">
+     <span class='ocr_line' id='line_1_2' title="bbox 147 1940 1310 2050; baseline 0.002 -6"><span class='ocrx_word' id='word_1_3' title='bbox 147 1945 289 2050; x_wconf 82' lang='lat' dir='ltr'><strong>MAG.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 358 1948 714 2050; x_wconf 79' lang='lat' dir='ltr'>PETRIDE</span> <span class='ocrx_word' id='word_1_5' title='bbox 763 1940 1310 2049; x_wconf 75' lang='lat' dir='ltr'><strong>MLADENOWIG</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 238 2219 1283 2314">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 238 2219 1283 2314">
+     <span class='ocr_line' id='line_1_3' title="bbox 238 2219 1283 2314; baseline 0 -27"><span class='ocrx_word' id='word_1_6' title='bbox 238 2220 440 2290; x_wconf 84' lang='lat' dir='ltr'><strong>RELATIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 467 2223 533 2288; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 560 2223 676 2290; x_wconf 82' lang='lat' dir='ltr'><strong>MAG.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 701 2221 901 2314; x_wconf 77' lang='lat' dir='ltr'>JOANNIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 922 2220 1017 2288; x_wconf 89' lang='lat' dir='ltr'><strong>HUS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1039 2219 1196 2288; x_wconf 84' lang='lat' dir='ltr'>CAUSA</span> <span class='ocrx_word' id='word_1_12' title='bbox 1282 2281 1283 2287; x_wconf 73' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1500 5258">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1500 5258">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1500 5258; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1500 5258; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
